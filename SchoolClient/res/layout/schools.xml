@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:paddingLeft="10dp"
+            android:layout_gravity="center_vertical"
+        android:orientation="horizontal" >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textSize="@dimen/index_text_size_32px"
+                android:layout_weight="0.1"
+                android:text="@string/selschool" />
+
+            <ImageView
+                android:layout_marginRight="5dp"
+                android:onClick="close"
+                android:layout_weight="0.9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/close_black"
+                />
+    </LinearLayout>
+ <ListView  
+        android:id="@+id/listView_list"  
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content" 
+        android:divider="@color/gainsboro"
+		android:dividerHeight="1dp"
+        android:background="@color/white" 
+        >  
+    </ListView>  
+
+</LinearLayout>

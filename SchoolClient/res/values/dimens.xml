@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="horizontal_margin">1dp</dimen>
+    
+    <!-- 92px -->
+    <dimen name="title_height">50dp</dimen>
+    <!-- 80px -->
+    <dimen name="tab_height">40dp</dimen>
+    <!-- 370px -->
+    <dimen name="focus_height">170dp</dimen>
+    
+    <dimen name="dot_height">17dp</dimen>
+    <dimen name="dot_width">20dp</dimen>
+    <dimen name="dot_bottom">5dp</dimen>
+    <!-- 40px -->
+    <!-- 28px -->
+    <!-- 33px -->
+    <!-- 32px -->
+    <!-- 28px -->
+    <!-- 限时抢购 25px-->
+    <!-- 折扣 30px-->
+    
+    <dimen name="index_text_size_25px">12sp</dimen>
+    <dimen name="index_text_size_26px">12.5sp</dimen>
+    <dimen name="index_text_size_28px">14sp</dimen>
+    <dimen name="index_text_size_30px">16sp</dimen>
+    <dimen name="index_text_size_32px">18sp</dimen>
+    <dimen name="index_text_size_33px">18.5sp</dimen>
+    <dimen name="index_text_size_38px">22sp</dimen>
+    <dimen name="index_text_size_40px">24sp</dimen>
+
+</resources>

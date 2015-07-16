@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:background="@null"
+    android:layout_height="wrap_content" >
+
+    <ProgressBar
+        android:id="@+id/pb_update_progress"
+        style="@style/ProgressBar"
+        android:layout_width="fill_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/biaoqian"
+    android:layout_width="wrap_content"
+    android:layout_height="75dp"
+    android:layout_gravity="top|right"
+    android:layout_marginRight="2dp"
+    android:background="@drawable/label"
+    android:gravity="center_horizontal"
+    android:visibility="gone"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/xtime"
+        android:textColor="@color/white"
+        android:textSize="@dimen/index_text_size_25px" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/qgo"
+        android:textColor="@color/white"
+        android:textSize="@dimen/index_text_size_25px" />
+
+    <TextView
+        android:id="@+id/detail_zhe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/zhe"
+        android:textSize="@dimen/index_text_size_30px" />
+
+</LinearLayout>

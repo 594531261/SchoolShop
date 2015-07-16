@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">校园购</string>
+    <string name="action_settings">Settings</string>
+
+    
+    <string name="border_top">Border Top</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="image_url">Image Url</string>
+    
+    
+    <string name="apptitle">校园购</string>
+    <string name="price">价格:</string>
+    <string name="price1">价格:</string>
+    <string name="count">数量:</string>
+    <string name="colortype">颜色:</string>
+    <string name="color">颜色</string>
+    <string name="chima">尺码:</string>
+    <string name="chicun">尺寸</string>
+    <string name="totalprice">总价:</string>
+    <string name="confirmbuy">确 &#160;&#160;&#160;&#160;定 </string>
+    <string name="smalltotal">小计：</string>
+    <string name="update">更新</string>
+    <string name="userlogin">用户登录</string>
+    <string name="userphone">手机号码</string>
+    <string name="userverify">验&#160;&#160;证&#160;&#160;码</string>
+    <string name="getverify">获取验证码</string>
+    <string name="login">登 &#160;&#160;&#160;&#160;  录</string>
+    <string name="orderno">订&#160;&#160;单&#160;&#160;号:</string>
+    <string name="orderprice">订单金额:</string>
+    <string name="orderstartdate">下单时间:</string>
+    <string name="orderstatus">订单状态:</string>
+    <string name="addaddress">收货地址</string>
+    <string name="curschool">所在学校</string>
+    <string name="detailaddress">详细地址</string>
+    <string name="getperson">收  货  人</string>
+    <string name="cars">购物车</string>
+    <string name="carsupdate">编辑</string>
+    <string name="allse">全选</string>
+    <string name="allprice">合计:</string>
+    <string name="del">删除</string>
+    <string name="gojie">去结算</string>
+    <string name="custom">客服</string>
+    <string name="orderquestion">订单问题</string>
+    <string name="customqq">咨询QQ</string>
+    <string name="customphone">咨询电话</string>
+    <string name="xtime">限时</string>
+    <string name="qgo">抢购</string>
+    <string name="sales">销量:</string>
+    <string name="curzhe">限时打折:</string>
+    <string name="favmessage">优惠信息:</string>
+    <string name="pngmessage">图文详情:</string>
+    <string name="gomai">立即购买</string>
+    <string name="gocars">加入购物车</string>
+    <string name="allorders">全部订单</string>
+    <string name="des">如果订单信息填写错误可以取消订单，再重新下单。</string>
+    <string name="settitle">个人中心</string>
+    <string name="updateversion">版本更新</string>
+    <string name="lianmens">关于我们</string>
+    <string name="welcome">欢迎来到校园购</string>
+    <string name="setlogin">登&#160;&#160;&#160;&#160;录</string>
+    <string name="confirmorder">确认订单</string>
+    <string name="cancelorder">取消订单</string>
+    <string name="getproduce">收货信息</string>
+    <string name="orderdetail">订单详情</string>
+    <string name="wuliu">配送方式</string>
+    <string name="wuliuvalue">官方配送</string>
+    <string name="moneytype">付款方式</string>
+    <string name="qiantype">货到付款</string>
+    <string name="gong">共</string>
+    <string name="jian">件，</string>
+    <string name="submit">提交订单</string>
+    <string name="updatecars">编辑购物车</string>
+    <string name="wanc">完成</string>
+    <string name="save">保&#160;&#160;存</string>
+    <string name="updateorder">修改订单</string>
+    <string name="selschool">选择校区</string>
+    <string name="wifigps">请检查网络</string>
+    
+        <string name="pull_to_refresh_pull_down_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_down_label">释放更新</string>
+    <string name="pull_to_refresh_refreshing_down_label">正在刷新…</string>
+    <string name="pull_to_refresh_pull_up_label">上拉查看更多</string>
+    <string name="pull_to_refresh_release_up_label">释放加载更多</string>
+    <string name="pull_to_refresh_refreshing_up_label">正在加载…</string>
+    
+        <string name="ptr_pull_to_refresh">Pull to refresh</string>
+    <string name="ptr_release_to_refresh">Release to refresh</string>
+    <string name="ptr_refreshing">Refreshing</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+        <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+</resources>

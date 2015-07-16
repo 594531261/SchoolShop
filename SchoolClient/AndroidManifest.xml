@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.school.schoolclient"
+    android:versionCode="2"
+    android:versionName="1.0.0" >
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" >
+    </supports-screens>
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:name="com.school.application.Myapp"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.school.schoolclient.Loading"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ShopDetail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ShopTwo"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ConfirmOrder"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ShopAdress"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.DetailPng"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ShopOrder"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ShopCart"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ShopSet"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ShopCustom"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.ShopLogin"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.Schools"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.AboutUs"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.PopLogin"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyDialogStyleBottom"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name="com.school.schoolclient.PopConfirm"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyDialogStyleBottom" >
+        </activity>
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="53e8bd61fd98c581e2021b01" >
+        </meta-data>
+        <!-- 渠道设置 A00,A07,A08,A09-->
+        <meta-data android:value="A08" android:name="UMENG_CHANNEL" />
+
+        <service
+            android:name="com.umeng.update.net.DownloadingService"
+            android:process=":DownloadingService" >
+        </service>
+
+        <activity
+            android:name="com.umeng.update.UpdateDialogActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+    </application>
+    
+	<uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest>

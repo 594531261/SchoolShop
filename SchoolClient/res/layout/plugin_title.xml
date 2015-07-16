@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_height"
+    android:background="@color/fs" >
+
+    <LinearLayout
+        android:id="@+id/shopa"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:onClick="backfinish"
+        android:background="@drawable/button_selector"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:onClick="backfinish"
+            android:src="@drawable/back_white" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txt_view_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:text="@string/cancelorder"
+        android:textColor="@color/white"
+        android:textSize="@dimen/index_text_size_38px" />
+
+    <LinearLayout
+        android:id="@+id/ll_right"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingRight="10dp"
+        android:layout_gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/edit_car"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_circle"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="@string/carsupdate"
+            android:textColor="@color/white"
+            android:textSize="@dimen/index_text_size_30px" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   android:background="@color/color10"
+    android:paddingTop="5dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+         android:background="@drawable/index_circle"
+        android:id="@+id/news_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:layout_gravity="top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <com.dodowaterfall.widget.ScaleImageView
+                android:layout_gravity="top"
+                android:id="@+id/news_pic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:src="@null" />
+            <View 
+                android:layout_gravity="bottom"
+                android:layout_height="0dp"
+                android:layout_width="match_parent"
+                android:background="@color/white"/>
+
+            <include layout="@layout/plugin_biaoqian"/>
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+             android:layout_marginLeft="@dimen/horizontal_margin"
+                android:layout_marginRight="@dimen/horizontal_margin"
+                
+            android:orientation="vertical" >
+
+            <TextView
+               
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/txtj"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:textSize="@dimen/index_text_size_28px" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/mon" />
+
+                <TextView
+                    android:id="@+id/price"
+                    android:layout_marginLeft="3dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/txtj"
+                    android:textSize="@dimen/index_text_size_30px" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/num" />
+
+                <TextView
+                    android:layout_marginLeft="3dp"
+                    android:id="@+id/num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/txtj"
+                    android:textSize="@dimen/index_text_size_30px" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="transparent">#b000</color>
+<color name="green">#2fb7c3</color>
+<color name="bgcolor">#ffffff</color>
+<color name="white">#ffffff</color>
+<color name="black">#000000</color>
+<color name="gainsboro">#dcdcdc</color>
+<color name="selcolor">#80FFFF</color>
+<color name="red">#FF0000</color>
+
+<color name="fs">#FF6599</color>
+<color name="line">#d8d8d8</color>
+<color name="txt">#666666</color>
+<color name="bg">#f8f8f8</color>
+<color name="week">#888888</color>
+<color name="whites">#ececec</color>
+<color name="txtj">#444444</color>
+<color name="btnbg">#ef6a52</color>
+<color name="ans">#f06953</color>
+<color name="addre">#ff0066</color>
+<color name="zhe">#fffeca</color>
+
+<color name="color1">#FF6599</color>
+<color name="color2">#666666</color>
+<color name="color3">#d8d8d8</color>
+<color name="color4">#444444</color>
+<color name="color5">#888888</color>
+<color name="color6">#f8f8f8</color>
+<color name="color7">#ececec</color>
+<color name="color8">#fffeca</color>
+<color name="color9">#d7d7d7</color>
+<color name="color10">#00000000</color><!-- 透明 -->
+<color name="color11">#44ffffff</color><!-- 选中颜色 -->
+
+</resources>

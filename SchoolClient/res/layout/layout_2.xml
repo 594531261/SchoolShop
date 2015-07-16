@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myattr="http://schemas.android.com/apk/res/com.school.schoolclient"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+            <me.maxwin.view.XListView
+                android:id="@+id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fastScrollEnabled="true"
+                android:padding="5dp"
+                android:cacheColorHint="#00000000" 
+                android:scrollbars="vertical" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/chatcar_selector"
+            android:gravity="right|bottom"
+            android:onClick="goCart" >
+
+            <TextView
+                android:id="@+id/pdda"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="23dp"
+                android:text="0"
+                android:visibility="gone"
+                android:gravity="center"
+                android:background="@drawable/cart_back"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+    </FrameLayout>
+
+</LinearLayout>

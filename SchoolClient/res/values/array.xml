@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="main_action">
+        <item>首页</item>
+        <item>女装</item>
+        <item>男装</item>
+        <item>箱包</item>
+        <item>化妆品</item>
+        <item>鞋</item>
+        <item>书籍</item>
+    </string-array>
+   
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/order_circle"
+    android:orientation="vertical"
+    >
+            <TextView
+                android:id="@+id/que"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textSize="26px"
+                android:textColor="@color/ans"
+                 />
+            <TextView
+                 android:id="@+id/ans"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textSize="26px"
+                android:textColor="@color/ans"
+                 />
+    
+    
+</LinearLayout>

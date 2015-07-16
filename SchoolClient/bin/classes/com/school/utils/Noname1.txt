@@ -1,0 +1,248 @@
+11-05 12:55:56.580: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:55:58.925: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:01.200: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:03.655: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:06.135: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:08.600: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:10.985: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:13.360: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:13.380: D/dalvikvm(4369): GC_CONCURRENT freed 479K, 6% free 11183K/11783K, paused 2ms+3ms, total 21ms
+11-05 12:56:15.760: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:16.960: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:19.485: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:22.025: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:24.375: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:26.700: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:27.970: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:30.010: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:32.615: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:34.995: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:37.430: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:39.990: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:42.415: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:44.720: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:47.275: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:48.490: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:50.785: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:53.065: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:54.385: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:56:54.415: D/dalvikvm(4369): GC_CONCURRENT freed 406K, 6% free 11173K/11783K, paused 2ms+5ms, total 28ms
+11-05 12:56:58.075: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:57:00.540: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:57:02.095: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:57:06.415: E/xlog(4369): push bind errorCode= 10001 appid= null userId= null channelId= null requestId= null
+11-05 12:57:23.475: E/Trace(7023): error opening trace file: No such file or directory (2)
+11-05 12:57:23.810: E/Trace(7039): error opening trace file: No such file or directory (2)
+11-05 12:57:23.955: W/ImageLoader(7039): memoryCache() and memoryCacheSize() calls overlap each other
+11-05 12:57:23.960: W/ImageLoader(7039): discCache() and discCacheFileNameGenerator() calls overlap each other
+11-05 12:57:23.965: D/ImageLoader(7039): Initialize ImageLoader with configuration
+11-05 12:57:24.045: D/dalvikvm(7039): GC_CONCURRENT freed 294K, 4% free 10976K/11399K, paused 7ms+14ms, total 45ms
+11-05 12:57:24.255: D/xlog(7039): http://112.124.115.31:7878/home/system/changeversion
+11-05 12:57:24.255: D/xlog(7039): HTTP POST: http://112.124.115.31:7878/home/system/changeversion
+11-05 12:57:24.290: D/Utility(7039):   friends: 9
+11-05 12:57:24.370: E/Trace(7079): error opening trace file: No such file or directory (2)
+11-05 12:57:24.395: D/dalvikvm(7039): GC_CONCURRENT freed 362K, 5% free 11065K/11527K, paused 3ms+2ms, total 19ms
+11-05 12:57:24.510: I/Process(7039): Sending signal. PID: 7039 SIG: 9
+11-05 12:57:24.525: W/ImageLoader(7079): memoryCache() and memoryCacheSize() calls overlap each other
+11-05 12:57:24.525: W/ImageLoader(7079): discCache() and discCacheFileNameGenerator() calls overlap each other
+11-05 12:57:24.535: D/ImageLoader(7079): Initialize ImageLoader with configuration
+11-05 12:57:24.635: D/dalvikvm(7079): GC_CONCURRENT freed 278K, 4% free 11043K/11399K, paused 30ms+3ms, total 78ms
+11-05 12:57:24.635: D/dalvikvm(7079): WAIT_FOR_CONCURRENT_GC blocked 13ms
+11-05 12:57:24.715: D/xlog(7079): http://112.124.115.31:7878/home/system/changeversion
+11-05 12:57:24.715: D/xlog(7079): HTTP POST: http://112.124.115.31:7878/home/system/changeversion
+11-05 12:57:24.715: D/xlog(7079): type = 1
+11-05 12:57:24.720: D/xlog(7079): version = 1.0.2
+11-05 12:57:24.830: D/xlog(7079): code:200 OK
+11-05 12:57:24.835: D/xlog(7079): ResponseText: {"code":"0","message":"\u5df2\u7ecf\u662f\u6700\u65b0\u7248\u672c","data":{"stype":"2"}}
+11-05 12:57:25.160: D/dalvikvm(7079): Trying to load lib /data/data/com.haolin.haoapp/lib/liblocSDK3.so 0x41a40960
+11-05 12:57:25.160: D/dalvikvm(7079): Added shared lib /data/data/com.haolin.haoapp/lib/liblocSDK3.so 0x41a40960
+11-05 12:57:25.160: D/dalvikvm(7079): No JNI_OnLoad found in /data/data/com.haolin.haoapp/lib/liblocSDK3.so 0x41a40960, skipping init
+11-05 12:57:25.185: D/dalvikvm(7079): GC_CONCURRENT freed 391K, 5% free 11084K/11591K, paused 3ms+6ms, total 35ms
+11-05 12:57:25.260: E/SQLiteLog(7079): (1) table bdcltb09 already exists
+11-05 12:57:25.265: D/baidu_location_service(7079): baidu location service start1 ...7079
+11-05 12:57:25.295: D/baidu_location_service(7079): baidu location service stop ...
+11-05 12:57:25.295: D/xlog(7079): ***************版本信息***************com.haolin.haoapp.model.VersionInfo@41abb9c0
+11-05 12:57:25.330: E/SQLiteLog(7079): (1) table bdcltb09 already exists
+11-05 12:57:25.330: D/baidu_location_service(7079): baidu location service start1 ...7079
+11-05 12:57:25.345: D/baidu_location_client(7079): baidu location connected ...
+11-05 12:57:25.810: I/xlog(7079): Location success:  161
+11-05 12:57:25.860: I/xlog(7079): loc result: 161 40.013477 116.371134 北京市朝阳区林萃西里三号路
+11-05 12:57:26.345: E/Trace(7195): error opening trace file: No such file or directory (2)
+11-05 12:57:26.535: W/ImageLoader(7195): memoryCache() and memoryCacheSize() calls overlap each other
+11-05 12:57:26.535: W/ImageLoader(7195): discCache() and discCacheFileNameGenerator() calls overlap each other
+11-05 12:57:26.545: D/ImageLoader(7195): Initialize ImageLoader with configuration
+11-05 12:57:26.570: E/Trace(7211): error opening trace file: No such file or directory (2)
+11-05 12:57:26.585: W/asset(7211): Asset path /data/app/com.haolin.haoapp-2.apk is neither a directory nor file (type=1).
+11-05 12:57:26.625: W/asset(7211): Asset path /data/app/com.haolin.haoapp-2.apk is neither a directory nor file (type=1).
+11-05 12:57:26.625: D/AndroidRuntime(7211): Shutting down VM
+11-05 12:57:26.625: W/dalvikvm(7211): threadid=1: thread exiting with uncaught exception (group=0x40fa0300)
+11-05 12:57:26.630: E/AndroidRuntime(7211): FATAL EXCEPTION: main
+11-05 12:57:26.630: E/AndroidRuntime(7211): java.lang.RuntimeException: Unable to instantiate application com.haolin.haoapp.HaoApp: java.lang.ClassNotFoundException: com.haolin.haoapp.HaoApp
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.app.LoadedApk.makeApplication(LoadedApk.java:508)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4245)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.app.ActivityThread.access$1400(ActivityThread.java:131)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1288)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.os.Looper.loop(Looper.java:137)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.app.ActivityThread.main(ActivityThread.java:4866)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at java.lang.reflect.Method.invokeNative(Native Method)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at java.lang.reflect.Method.invoke(Method.java:511)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at dalvik.system.NativeStart.main(Native Method)
+11-05 12:57:26.630: E/AndroidRuntime(7211): Caused by: java.lang.ClassNotFoundException: com.haolin.haoapp.HaoApp
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:61)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:501)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:461)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.app.Instrumentation.newApplication(Instrumentation.java:967)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	at android.app.LoadedApk.makeApplication(LoadedApk.java:503)
+11-05 12:57:26.630: E/AndroidRuntime(7211): 	... 11 more
+11-05 12:57:26.650: D/dalvikvm(7195): GC_CONCURRENT freed 296K, 4% free 11025K/11399K, paused 21ms+3ms, total 60ms
+11-05 12:57:26.650: D/dalvikvm(7195): WAIT_FOR_CONCURRENT_GC blocked 9ms
+11-05 12:57:26.850: D/xlog(7195): http://112.124.115.31:7878/home/system/changeversion
+11-05 12:57:26.855: D/xlog(7195): HTTP POST: http://112.124.115.31:7878/home/system/changeversion
+11-05 12:57:26.855: D/xlog(7195): type = 1
+11-05 12:57:26.855: D/xlog(7195): version = 1.0.2
+11-05 12:57:26.910: D/dalvikvm(7195): GC_FOR_ALLOC freed 269K, 4% free 11019K/11399K, paused 37ms, total 37ms
+11-05 12:57:26.910: I/dalvikvm-heap(7195): Grow heap (frag case) to 11.832MB for 1048592-byte allocation
+11-05 12:57:26.930: D/dalvikvm(7195): GC_FOR_ALLOC freed <1K, 4% free 12043K/12487K, paused 19ms, total 19ms
+11-05 12:57:26.970: D/dalvikvm(7195): GC_CONCURRENT freed 25K, 4% free 12050K/12487K, paused 12ms+8ms, total 39ms
+11-05 12:57:26.970: D/dalvikvm(7195): WAIT_FOR_CONCURRENT_GC blocked 15ms
+11-05 12:57:26.995: D/dalvikvm(7195): GC_FOR_ALLOC freed <1K, 4% free 12049K/12487K, paused 23ms, total 23ms
+11-05 12:57:27.000: I/dalvikvm-heap(7195): Grow heap (frag case) to 14.611MB for 2908176-byte allocation
+11-05 12:57:27.040: D/dalvikvm(7195): GC_CONCURRENT freed <1K, 4% free 14889K/15367K, paused 14ms+6ms, total 37ms
+11-05 12:57:27.040: D/dalvikvm(7195): WAIT_FOR_CONCURRENT_GC blocked 21ms
+11-05 12:57:27.125: D/dalvikvm(7195): GC_FOR_ALLOC freed 2K, 3% free 14923K/15367K, paused 16ms, total 16ms
+11-05 12:57:27.140: I/dalvikvm-heap(7195): Grow heap (frag case) to 19.573MB for 5169196-byte allocation
+11-05 12:57:27.180: D/dalvikvm(7195): GC_CONCURRENT freed 0K, 3% free 19971K/20423K, paused 13ms+3ms, total 37ms
+11-05 12:57:27.180: D/dalvikvm(7195): WAIT_FOR_CONCURRENT_GC blocked 10ms
+11-05 12:57:27.180: D/xlog(7195): code:200 OK
+11-05 12:57:27.180: D/xlog(7195): ResponseText: {"code":"0","message":"\u5df2\u7ecf\u662f\u6700\u65b0\u7248\u672c","data":{"stype":"2"}}
+11-05 12:57:28.005: D/xlog(7195): ***************版本信息***************com.haolin.haoapp.model.VersionInfo@41a34be8
+11-05 12:57:28.095: D/libEGL(7195): loaded /system/lib/egl/libEGL_mali.so
+11-05 12:57:28.125: D/libEGL(7195): loaded /system/lib/egl/libGLESv1_CM_mali.so
+11-05 12:57:28.130: D/libEGL(7195): loaded /system/lib/egl/libGLESv2_mali.so
+11-05 12:57:28.140: D/(7195): Device driver API match
+11-05 12:57:28.140: D/(7195): Device driver API version: 10
+11-05 12:57:28.140: D/(7195): User space API version: 10 
+11-05 12:57:28.140: D/(7195): mali: REVISION=Linux-r2p4-02rel0 BUILD_DATE=Mon May 14 20:33:23 KST 2012 
+11-05 12:57:28.200: D/OpenGLRenderer(7195): Enabling debug mode 0
+11-05 12:57:28.205: D/baidu_location_client(7195): baidu location connected ...
+11-05 12:57:29.460: I/Process(7211): Sending signal. PID: 7211 SIG: 9
+11-05 12:57:29.835: I/xlog(7195): Location success:  161
+11-05 12:57:29.840: I/xlog(7195): loc result: 161 40.013477 116.371134 北京市朝阳区林萃西里三号路
+11-05 12:57:29.910: E/xlog(7195): push bind errorCode= 0 appid= 3288610 userId= 777881399217735756 channelId= 3758581597372919847 requestId= 812828042
+11-05 12:57:30.335: D/xlog(7195): http://112.124.115.31:7878/home/user/login
+11-05 12:57:30.340: D/xlog(7195): HTTP POST: http://112.124.115.31:7878/home/user/login
+11-05 12:57:30.340: D/xlog(7195): push_user_id = 777881399217735756
+11-05 12:57:30.340: D/xlog(7195): password = qwer
+11-05 12:57:30.340: D/xlog(7195): channel_id = 3758581597372919847
+11-05 12:57:30.340: D/xlog(7195): machine_code = 864687010473915
+11-05 12:57:30.340: D/xlog(7195): device_type = 1
+11-05 12:57:30.340: D/xlog(7195): mobile = 15210926718
+11-05 12:57:30.385: E/Trace(7319): error opening trace file: No such file or directory (2)
+11-05 12:57:30.440: D/xlog(7195): code:200 OK
+11-05 12:57:30.440: D/xlog(7195): ResponseText: {"code":"0","message":"\u767b\u5f55\u6210\u529f","data":{"user_id":"195","nickname":"\u7ef4\u5c3c\u9732","gender":"2","mobile":"15210926718","qq_number":"0","email":"","amount":"0.00","headimg":"http:\/\/112.124.115.31:7878\/www\/static\/upload\/user\/201410\/2321\/s_20141023215232701680803.jpg","bigheadimg":"http:\/\/112.124.115.31:7878\/www\/static\/upload\/user\/201410\/2321\/20141023215232701680803.jpg","delivery_address":"\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u6e05\u534e\u56ed","user_desc":"","user_mark":"2","status":"0","register_time":"1414057411","change_time":"1414072454","merchant_name":"\u642c\u5bb6\u8001\u6ee1","merchant_amount":"0","Tokenid":"5NFAZV1G4KO16FCQ","range_type":"2","thumb":"http:\/\/112.124.115.31:7878\/"}}
+11-05 12:57:31.005: I/System.out(7195): 上一次索引:2
+11-05 12:57:31.015: D/dalvikvm(7195): GC_CONCURRENT freed 3312K, 16% free 18662K/22087K, paused 12ms+4ms, total 32ms
+11-05 12:57:31.125: W/ResourceType(7195): No package identifier when getting name for resource number 0x00000000
+11-05 12:57:31.205: D/dalvikvm(7195): GC_FOR_ALLOC freed 399K, 9% free 20125K/22087K, paused 19ms, total 19ms
+11-05 12:57:31.215: I/dalvikvm-heap(7195): Grow heap (frag case) to 21.559MB for 1924884-byte allocation
+11-05 12:57:31.265: D/dalvikvm(7195): GC_FOR_ALLOC freed 9K, 9% free 21996K/24007K, paused 17ms, total 17ms
+11-05 12:57:31.305: W/ResourceType(7195): No package identifier when getting name for resource number 0x00000000
+11-05 12:57:31.305: W/ResourceType(7195): No package identifier when getting name for resource number 0x00000000
+11-05 12:57:31.375: D/dalvikvm(7195): GC_FOR_ALLOC freed 1548K, 10% free 21797K/24007K, paused 20ms, total 21ms
+11-05 12:57:31.500: D/ImageLoader(7195): Start display image task [http://112.124.115.31:7878/www/static/upload/user/201410/2321/s_20141023215232701680803.jpg_120x120]
+11-05 12:57:31.500: D/ImageLoader(7195): Load image from disc cache [http://112.124.115.31:7878/www/static/upload/user/201410/2321/s_20141023215232701680803.jpg_120x120]
+11-05 12:57:31.525: D/ImageLoader(7195): Subsample original image (300x220) to 150x110 (scale = 2) [http://112.124.115.31:7878/www/static/upload/user/201410/2321/s_20141023215232701680803.jpg_120x120]
+11-05 12:57:31.540: D/ImageLoader(7195): Cache image in memory [http://112.124.115.31:7878/www/static/upload/user/201410/2321/s_20141023215232701680803.jpg_120x120]
+11-05 12:57:31.595: D/ImageLoader(7195): Display image in ImageAware (loaded from DISC_CACHE) [http://112.124.115.31:7878/www/static/upload/user/201410/2321/s_20141023215232701680803.jpg_120x120]
+11-05 12:57:38.130: W/ResourceType(7195): No package identifier when getting name for resource number 0x00000000
+11-05 12:57:38.150: D/AndroidRuntime(7195): Shutting down VM
+11-05 12:57:38.150: W/dalvikvm(7195): threadid=1: thread exiting with uncaught exception (group=0x40fa0300)
+11-05 12:57:38.150: W/System.err(7195): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.haolin.haoapp/com.haolin.haoapp.merchant.AddGoodsFragment}: android.view.InflateException: Binary XML file line #123: Error inflating class me.wtao.widget.SlidingDrawer
+11-05 12:57:38.155: W/System.err(7195): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2110)
+11-05 12:57:38.155: W/System.err(7195): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2135)
+11-05 12:57:38.155: W/System.err(7195): 	at android.app.ActivityThread.access$700(ActivityThread.java:131)
+11-05 12:57:38.155: W/System.err(7195): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1228)
+11-05 12:57:38.155: W/System.err(7195): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-05 12:57:38.155: W/System.err(7195): 	at android.os.Looper.loop(Looper.java:137)
+11-05 12:57:38.155: W/System.err(7195): 	at android.app.ActivityThread.main(ActivityThread.java:4866)
+11-05 12:57:38.155: W/System.err(7195): 	at java.lang.reflect.Method.invokeNative(Native Method)
+11-05 12:57:38.155: W/System.err(7195): 	at java.lang.reflect.Method.invoke(Method.java:511)
+11-05 12:57:38.155: W/System.err(7195): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+11-05 12:57:38.155: W/System.err(7195): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+11-05 12:57:38.160: W/System.err(7195): 	at dalvik.system.NativeStart.main(Native Method)
+11-05 12:57:38.160: W/System.err(7195): Caused by: android.view.InflateException: Binary XML file line #123: Error inflating class me.wtao.widget.SlidingDrawer
+11-05 12:57:38.165: W/System.err(7195): 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:698)
+11-05 12:57:38.165: W/System.err(7195): 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:746)
+11-05 12:57:38.165: W/System.err(7195): 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:749)
+11-05 12:57:38.165: W/System.err(7195): 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:749)
+11-05 12:57:38.165: W/System.err(7195): 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:749)
+11-05 12:57:38.165: W/System.err(7195): 	at android.view.LayoutInflater.inflate(LayoutInflater.java:489)
+11-05 12:57:38.165: W/System.err(7195): 	at android.view.LayoutInflater.inflate(LayoutInflater.java:396)
+11-05 12:57:38.165: W/System.err(7195): 	at android.view.LayoutInflater.inflate(LayoutInflater.java:352)
+11-05 12:57:38.170: W/System.err(7195): 	at com.android.internal.policy.impl.PhoneWindow.setContentView(PhoneWindow.java:272)
+11-05 12:57:38.170: W/System.err(7195): 	at android.app.Activity.setContentView(Activity.java:1980)
+11-05 12:57:38.170: W/System.err(7195): 	at com.haolin.haoapp.merchant.AddGoodsFragment.onCreate(AddGoodsFragment.java:90)
+11-05 12:57:38.170: W/System.err(7195): 	at android.app.Activity.performCreate(Activity.java:5143)
+11-05 12:57:38.170: W/System.err(7195): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1079)
+11-05 12:57:38.170: W/System.err(7195): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2074)
+11-05 12:57:38.175: W/System.err(7195): 	... 11 more
+11-05 12:57:38.175: W/System.err(7195): Caused by: java.lang.ClassNotFoundException: me.wtao.widget.SlidingDrawer
+11-05 12:57:38.175: W/System.err(7195): 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:61)
+11-05 12:57:38.175: W/System.err(7195): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:501)
+11-05 12:57:38.175: W/System.err(7195): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:461)
+11-05 12:57:38.180: W/System.err(7195): 	at android.view.LayoutInflater.createView(LayoutInflater.java:552)
+11-05 12:57:38.180: W/System.err(7195): 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:687)
+11-05 12:57:38.180: W/System.err(7195): 	... 24 more
+11-05 12:57:38.185: D/CrashHandler(7195): AUTORECORDER : true
+11-05 12:57:38.185: D/CrashHandler(7195): BOARD : mx
+11-05 12:57:38.185: D/CrashHandler(7195): BOOTLOADER : unknown
+11-05 12:57:38.185: D/CrashHandler(7195): BRAND : Meizu
+11-05 12:57:38.185: D/CrashHandler(7195): BUILD_MASK : 4.1.1-12331
+11-05 12:57:38.185: D/CrashHandler(7195): CPU_ABI : armeabi-v7a
+11-05 12:57:38.185: D/CrashHandler(7195): CPU_ABI2 : armeabi
+11-05 12:57:38.185: D/CrashHandler(7195): CTA : unknown
+11-05 12:57:38.185: D/CrashHandler(7195): CUSTOMIZE_CHINAMOBILE : false
+11-05 12:57:38.185: D/CrashHandler(7195): CUSTOMIZE_CHINAUNICOM : false
+11-05 12:57:38.185: D/CrashHandler(7195): CUSTOMIZE_ISP_VALUE : unknown
+11-05 12:57:38.185: D/CrashHandler(7195): CUSTOMIZE_PCCW : false
+11-05 12:57:38.185: D/CrashHandler(7195): DEVICE : mx
+11-05 12:57:38.185: D/CrashHandler(7195): DISPLAY : Flyme OS 2.5.3 (A12331)
+11-05 12:57:38.185: D/CrashHandler(7195): FINGERPRINT : Meizu/meizu_mx/mx:4.1.1/JRO03H/m03x.Flyme_OS_2.5.3.12331:user/release-keys
+11-05 12:57:38.185: D/CrashHandler(7195): HARDWARE : mx
+11-05 12:57:38.185: D/CrashHandler(7195): HAS_PERMANENTKEY : true
+11-05 12:57:38.185: D/CrashHandler(7195): HAS_SMARTBAR : false
+11-05 12:57:38.185: D/CrashHandler(7195): HOST : mz-builder-3
+11-05 12:57:38.190: D/CrashHandler(7195): ID : JRO03H
+11-05 12:57:38.190: D/CrashHandler(7195): IS_DEBUGGABLE : false
+11-05 12:57:38.190: D/CrashHandler(7195): IS_M9 : false
+11-05 12:57:38.190: D/CrashHandler(7195): IS_MX : true
+11-05 12:57:38.190: D/CrashHandler(7195): IS_MX2 : false
+11-05 12:57:38.190: D/CrashHandler(7195): IS_PCCW : false
+11-05 12:57:38.190: D/CrashHandler(7195): IS_TD_PLATFORM : false
+11-05 12:57:38.190: D/CrashHandler(7195): M030 : M030
+11-05 12:57:38.190: D/CrashHandler(7195): M031 : M031
+11-05 12:57:38.190: D/CrashHandler(7195): M032 : M032
+11-05 12:57:38.190: D/CrashHandler(7195): M040 : M040
+11-05 12:57:38.190: D/CrashHandler(7195): M045 : M045
+11-05 12:57:38.190: D/CrashHandler(7195): M046 : M046
+11-05 12:57:38.190: D/CrashHandler(7195): M9 : M9
+11-05 12:57:38.190: D/CrashHandler(7195): MANUFACTURER : Meizu
+11-05 12:57:38.190: D/CrashHandler(7195): MEIZU_SECURITY : true
+11-05 12:57:38.190: D/CrashHandler(7195): MODEL : M032
+11-05 12:57:38.190: D/CrashHandler(7195): MZ_USE_NAVBAR : false
+11-05 12:57:38.190: D/CrashHandler(7195): MeizuSecurity : true
+11-05 12:57:38.190: D/CrashHandler(7195): PERMANENTKEY : true
+11-05 12:57:38.190: D/CrashHandler(7195): PRODUCT : meizu_mx
+11-05 12:57:38.195: D/CrashHandler(7195): RADIO : unknown
+11-05 12:57:38.195: D/CrashHandler(7195): SERIAL : unknown
+11-05 12:57:38.195: D/CrashHandler(7195): TAGS : release-keys
+11-05 12:57:38.195: D/CrashHandler(7195): TIME : 1400352735000
+11-05 12:57:38.195: D/CrashHandler(7195): TYPE : user
+11-05 12:57:38.195: D/CrashHandler(7195): UNKNOWN : unknown
+11-05 12:57:38.195: D/CrashHandler(7195): USER : flyme
+11-05 12:57:38.195: D/CrashHandler(7195): VOICEMAIL : true
+11-05 12:57:38.255: D/dalvikvm(7195): GC_CONCURRENT freed 2335K, 11% free 21499K/24007K, paused 12ms+4ms, total 36ms
+11-05 12:57:41.290: I/Process(7195): Sending signal. PID: 7195 SIG: 9
